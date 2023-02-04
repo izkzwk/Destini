@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Destini-iOS13
+//  Destini
 //
-//  Created by Angela Yu on 08/08/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Dzmitry Bladyka on 01.02.23.
+//  Copyright © 2023 The App Brewery. All rights reserved.
 //
 
 import UIKit
